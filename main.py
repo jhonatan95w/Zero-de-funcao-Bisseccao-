@@ -1,3 +1,5 @@
+Metodo da Bisseccao
+
 import math
 
 a=float(input("Digite o valor a do refinamento: "))
